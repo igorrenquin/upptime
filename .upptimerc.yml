@@ -42,6 +42,8 @@ sites:
     url: https://ozensemble.fabrique.social.gouv.fr/
   - name: Carnet de bord
     url: https://carnet-de-bord.fabrique.social.gouv.fr/
+  - name: Enfants du spectacle
+    url: https://enfants-du-spectacle.fabrique.social.gouv.fr/
   - name: Matomo
     url: https://matomo.fabrique.social.gouv.fr/
   - name: Sentry
