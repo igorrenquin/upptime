@@ -24,8 +24,6 @@ sites:
     url: https://covid-19.sante.gouv.fr
   - name: TuMePlay
     url: https://tumeplay.fabrique.social.gouv.fr/
-  - name: medlé
-    url: https://medle.fabrique.social.gouv.fr/
   - name: ONVS
     url: https://onvs.fabrique.social.gouv.fr/
   - name: DomiFa
