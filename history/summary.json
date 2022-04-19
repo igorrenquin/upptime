@@ -418,19 +418,19 @@
     "url": "https://enfants-du-spectacle.fabrique.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/enfants-du-spectacle.fabrique.social.gouv.fr",
     "slug": "enfants-du-spectacle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.42%",
+    "uptimeDay": "98.37%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 495,
-    "timeDay": 585,
-    "timeWeek": 522,
-    "timeMonth": 495,
-    "timeYear": 495,
+    "time": 491,
+    "timeDay": 560,
+    "timeWeek": 511,
+    "timeMonth": 491,
+    "timeYear": 491,
     "dailyMinutesDown": {
-      "2022-04-19": 23
+      "2022-04-19": 24
     }
   },
   {
@@ -616,8 +616,8 @@
     "status": "up",
     "uptime": "91.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "20.53%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "20.91%",
     "uptimeYear": "87.86%",
     "time": 468,
     "timeDay": 589,
