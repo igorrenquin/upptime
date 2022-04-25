@@ -1,7 +1,7 @@
 url: https://domifa.fabrique.social.gouv.fr/
-status: down
-code: 503
-responseTime: 603
-lastUpdated: 2022-04-25T09:42:44.360Z
+status: up
+code: 200
+responseTime: 364
+lastUpdated: 2022-04-25T10:52:06.145Z
 startTime: Fri Nov 27 2020 08:23:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
