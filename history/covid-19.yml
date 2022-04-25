@@ -1,7 +1,7 @@
 url: https://covid-19.sante.gouv.fr
-status: up
-code: 200
-responseTime: 903
-lastUpdated: 2022-04-25T08:13:54.875Z
+status: down
+code: 503
+responseTime: 650
+lastUpdated: 2022-04-25T09:42:39.522Z
 startTime: Fri Nov 27 2020 08:22:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
