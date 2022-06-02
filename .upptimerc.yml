@@ -53,7 +53,7 @@ sites:
   - name: Sample Next App
     url: https://sample-next-app.fabrique.social.gouv.fr
   - name: GitLab
-    url: https://gitlab.factory.social.gouv.fr
+    url: https://gitlab.fabrique.social.gouv.fr
 
 commitMessages:
   commitAuthorName: "Social Groovy Bot"
