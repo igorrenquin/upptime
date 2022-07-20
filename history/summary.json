@@ -347,10 +347,10 @@
     "url": "https://monsuivipsy.fabrique.social.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/monsuivipsy.fabrique.social.gouv.fr",
     "slug": "mon-suivi-psy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 548,
@@ -359,6 +359,7 @@
     "timeMonth": 506,
     "timeYear": 541,
     "dailyMinutesDown": {
+      "2022-07-20": 1,
       "2022-05-10": 20,
       "2022-04-21": 38
     }
@@ -444,7 +445,7 @@
     "timeDay": 1119,
     "timeWeek": 1261,
     "timeMonth": 1226,
-    "timeYear": 1393,
+    "timeYear": 1394,
     "dailyMinutesDown": {
       "2022-07-19": 39,
       "2022-07-17": 16,
@@ -666,7 +667,7 @@
     "icon": "https://favicons.githubusercontent.com/gitlab.fabrique.social.gouv.fr",
     "slug": "git-lab",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
