@@ -50,9 +50,9 @@
     "url": "http://index-egapro.travail.gouv.fr/",
     "icon": "https://favicons.githubusercontent.com/index-egapro.travail.gouv.fr",
     "slug": "index-ega-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -62,6 +62,7 @@
     "timeMonth": 786,
     "timeYear": 907,
     "dailyMinutesDown": {
+      "2022-08-03": 0,
       "2021-09-16": 31
     }
   },
@@ -585,7 +586,7 @@
     "icon": "https://favicons.githubusercontent.com/sample-next-app.fabrique.social.gouv.fr",
     "slug": "sample-next-app",
     "status": "up",
-    "uptime": "90.93%",
+    "uptime": "90.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
