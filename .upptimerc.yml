@@ -9,7 +9,7 @@ sites:
   - name: Template
     url: https://template.fabrique.social.gouv.fr/
   - name: Index EgaPro
-    url: http://index-egapro.travail.gouv.fr/
+    url: http://egapro.travail.gouv.fr/
   - name: Code du travail
     url: https://code.travail.gouv.fr
   - name: siret2idcc
@@ -38,8 +38,6 @@ sites:
     url: https://monsuivipsy.fabrique.social.gouv.fr/
   - name: OzEnsemble
     url: https://ozensemble.fabrique.social.gouv.fr/
-  - name: Carnet de bord
-    url: https://carnet-de-bord.fabrique.social.gouv.fr/
   - name: Enfants du spectacle
     url: https://enfants-du-spectacle.fabrique.social.gouv.fr/
   - name: Matomo
